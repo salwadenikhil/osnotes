@@ -1,0 +1,14 @@
+C:\nikhilomkar\ConsoleApp3\streams\bin\Debug\net8.0\streams.exe
+C:\nikhilomkar\ConsoleApp3\streams\bin\Debug\net8.0\streams.deps.json
+C:\nikhilomkar\ConsoleApp3\streams\bin\Debug\net8.0\streams.runtimeconfig.json
+C:\nikhilomkar\ConsoleApp3\streams\bin\Debug\net8.0\streams.dll
+C:\nikhilomkar\ConsoleApp3\streams\bin\Debug\net8.0\streams.pdb
+C:\nikhilomkar\ConsoleApp3\streams\obj\Debug\net8.0\streams.GeneratedMSBuildEditorConfig.editorconfig
+C:\nikhilomkar\ConsoleApp3\streams\obj\Debug\net8.0\streams.AssemblyInfoInputs.cache
+C:\nikhilomkar\ConsoleApp3\streams\obj\Debug\net8.0\streams.AssemblyInfo.cs
+C:\nikhilomkar\ConsoleApp3\streams\obj\Debug\net8.0\streams.csproj.CoreCompileInputs.cache
+C:\nikhilomkar\ConsoleApp3\streams\obj\Debug\net8.0\streams.dll
+C:\nikhilomkar\ConsoleApp3\streams\obj\Debug\net8.0\refint\streams.dll
+C:\nikhilomkar\ConsoleApp3\streams\obj\Debug\net8.0\streams.pdb
+C:\nikhilomkar\ConsoleApp3\streams\obj\Debug\net8.0\streams.genruntimeconfig.cache
+C:\nikhilomkar\ConsoleApp3\streams\obj\Debug\net8.0\ref\streams.dll
