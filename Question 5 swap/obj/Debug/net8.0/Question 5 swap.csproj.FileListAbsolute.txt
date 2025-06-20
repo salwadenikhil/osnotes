@@ -1,0 +1,14 @@
+C:\nikhilomkar\ConsoleApp1\Question 5 swap\bin\Debug\net8.0\Question 5 swap.exe
+C:\nikhilomkar\ConsoleApp1\Question 5 swap\bin\Debug\net8.0\Question 5 swap.deps.json
+C:\nikhilomkar\ConsoleApp1\Question 5 swap\bin\Debug\net8.0\Question 5 swap.runtimeconfig.json
+C:\nikhilomkar\ConsoleApp1\Question 5 swap\bin\Debug\net8.0\Question 5 swap.dll
+C:\nikhilomkar\ConsoleApp1\Question 5 swap\bin\Debug\net8.0\Question 5 swap.pdb
+C:\nikhilomkar\ConsoleApp1\Question 5 swap\obj\Debug\net8.0\Question 5 swap.GeneratedMSBuildEditorConfig.editorconfig
+C:\nikhilomkar\ConsoleApp1\Question 5 swap\obj\Debug\net8.0\Question 5 swap.AssemblyInfoInputs.cache
+C:\nikhilomkar\ConsoleApp1\Question 5 swap\obj\Debug\net8.0\Question 5 swap.AssemblyInfo.cs
+C:\nikhilomkar\ConsoleApp1\Question 5 swap\obj\Debug\net8.0\Question 5 swap.csproj.CoreCompileInputs.cache
+C:\nikhilomkar\ConsoleApp1\Question 5 swap\obj\Debug\net8.0\Question 5 swap.dll
+C:\nikhilomkar\ConsoleApp1\Question 5 swap\obj\Debug\net8.0\refint\Question 5 swap.dll
+C:\nikhilomkar\ConsoleApp1\Question 5 swap\obj\Debug\net8.0\Question 5 swap.pdb
+C:\nikhilomkar\ConsoleApp1\Question 5 swap\obj\Debug\net8.0\Question 5 swap.genruntimeconfig.cache
+C:\nikhilomkar\ConsoleApp1\Question 5 swap\obj\Debug\net8.0\ref\Question 5 swap.dll

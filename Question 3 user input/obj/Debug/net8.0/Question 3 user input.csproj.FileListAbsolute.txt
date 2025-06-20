@@ -1,0 +1,14 @@
+C:\nikhilomkar\ConsoleApp1\Question 3 user input\obj\Debug\net8.0\Question 3 user input.GeneratedMSBuildEditorConfig.editorconfig
+C:\nikhilomkar\ConsoleApp1\Question 3 user input\obj\Debug\net8.0\Question 3 user input.AssemblyInfoInputs.cache
+C:\nikhilomkar\ConsoleApp1\Question 3 user input\obj\Debug\net8.0\Question 3 user input.AssemblyInfo.cs
+C:\nikhilomkar\ConsoleApp1\Question 3 user input\obj\Debug\net8.0\Question 3 user input.csproj.CoreCompileInputs.cache
+C:\nikhilomkar\ConsoleApp1\Question 3 user input\bin\Debug\net8.0\Question 3 user input.exe
+C:\nikhilomkar\ConsoleApp1\Question 3 user input\bin\Debug\net8.0\Question 3 user input.deps.json
+C:\nikhilomkar\ConsoleApp1\Question 3 user input\bin\Debug\net8.0\Question 3 user input.runtimeconfig.json
+C:\nikhilomkar\ConsoleApp1\Question 3 user input\bin\Debug\net8.0\Question 3 user input.dll
+C:\nikhilomkar\ConsoleApp1\Question 3 user input\bin\Debug\net8.0\Question 3 user input.pdb
+C:\nikhilomkar\ConsoleApp1\Question 3 user input\obj\Debug\net8.0\Question 3 user input.dll
+C:\nikhilomkar\ConsoleApp1\Question 3 user input\obj\Debug\net8.0\refint\Question 3 user input.dll
+C:\nikhilomkar\ConsoleApp1\Question 3 user input\obj\Debug\net8.0\Question 3 user input.pdb
+C:\nikhilomkar\ConsoleApp1\Question 3 user input\obj\Debug\net8.0\Question 3 user input.genruntimeconfig.cache
+C:\nikhilomkar\ConsoleApp1\Question 3 user input\obj\Debug\net8.0\ref\Question 3 user input.dll

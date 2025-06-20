@@ -1,0 +1,14 @@
+C:\nikhilomkar\ConsoleApp1\Question 7 Net salary\bin\Debug\net8.0\Question 7 Net salary.exe
+C:\nikhilomkar\ConsoleApp1\Question 7 Net salary\bin\Debug\net8.0\Question 7 Net salary.deps.json
+C:\nikhilomkar\ConsoleApp1\Question 7 Net salary\bin\Debug\net8.0\Question 7 Net salary.runtimeconfig.json
+C:\nikhilomkar\ConsoleApp1\Question 7 Net salary\bin\Debug\net8.0\Question 7 Net salary.dll
+C:\nikhilomkar\ConsoleApp1\Question 7 Net salary\bin\Debug\net8.0\Question 7 Net salary.pdb
+C:\nikhilomkar\ConsoleApp1\Question 7 Net salary\obj\Debug\net8.0\Question 7 Net salary.GeneratedMSBuildEditorConfig.editorconfig
+C:\nikhilomkar\ConsoleApp1\Question 7 Net salary\obj\Debug\net8.0\Question 7 Net salary.AssemblyInfoInputs.cache
+C:\nikhilomkar\ConsoleApp1\Question 7 Net salary\obj\Debug\net8.0\Question 7 Net salary.AssemblyInfo.cs
+C:\nikhilomkar\ConsoleApp1\Question 7 Net salary\obj\Debug\net8.0\Question 7 Net salary.csproj.CoreCompileInputs.cache
+C:\nikhilomkar\ConsoleApp1\Question 7 Net salary\obj\Debug\net8.0\Question 7 Net salary.dll
+C:\nikhilomkar\ConsoleApp1\Question 7 Net salary\obj\Debug\net8.0\refint\Question 7 Net salary.dll
+C:\nikhilomkar\ConsoleApp1\Question 7 Net salary\obj\Debug\net8.0\Question 7 Net salary.pdb
+C:\nikhilomkar\ConsoleApp1\Question 7 Net salary\obj\Debug\net8.0\Question 7 Net salary.genruntimeconfig.cache
+C:\nikhilomkar\ConsoleApp1\Question 7 Net salary\obj\Debug\net8.0\ref\Question 7 Net salary.dll

@@ -1,0 +1,14 @@
+C:\nikhilomkar\ConsoleApp1\Question 10 basic calculator\bin\Debug\net8.0\Question 10 basic calculator.exe
+C:\nikhilomkar\ConsoleApp1\Question 10 basic calculator\bin\Debug\net8.0\Question 10 basic calculator.deps.json
+C:\nikhilomkar\ConsoleApp1\Question 10 basic calculator\bin\Debug\net8.0\Question 10 basic calculator.runtimeconfig.json
+C:\nikhilomkar\ConsoleApp1\Question 10 basic calculator\bin\Debug\net8.0\Question 10 basic calculator.dll
+C:\nikhilomkar\ConsoleApp1\Question 10 basic calculator\bin\Debug\net8.0\Question 10 basic calculator.pdb
+C:\nikhilomkar\ConsoleApp1\Question 10 basic calculator\obj\Debug\net8.0\Question 10 basic calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\nikhilomkar\ConsoleApp1\Question 10 basic calculator\obj\Debug\net8.0\Question 10 basic calculator.AssemblyInfoInputs.cache
+C:\nikhilomkar\ConsoleApp1\Question 10 basic calculator\obj\Debug\net8.0\Question 10 basic calculator.AssemblyInfo.cs
+C:\nikhilomkar\ConsoleApp1\Question 10 basic calculator\obj\Debug\net8.0\Question 10 basic calculator.csproj.CoreCompileInputs.cache
+C:\nikhilomkar\ConsoleApp1\Question 10 basic calculator\obj\Debug\net8.0\Question 10 basic calculator.dll
+C:\nikhilomkar\ConsoleApp1\Question 10 basic calculator\obj\Debug\net8.0\refint\Question 10 basic calculator.dll
+C:\nikhilomkar\ConsoleApp1\Question 10 basic calculator\obj\Debug\net8.0\Question 10 basic calculator.pdb
+C:\nikhilomkar\ConsoleApp1\Question 10 basic calculator\obj\Debug\net8.0\Question 10 basic calculator.genruntimeconfig.cache
+C:\nikhilomkar\ConsoleApp1\Question 10 basic calculator\obj\Debug\net8.0\ref\Question 10 basic calculator.dll

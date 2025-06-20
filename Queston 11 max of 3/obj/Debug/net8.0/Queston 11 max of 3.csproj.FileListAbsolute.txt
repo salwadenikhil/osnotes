@@ -1,0 +1,14 @@
+C:\nikhilomkar\ConsoleApp1\Queston 11 max of 3\bin\Debug\net8.0\Queston 11 max of 3.exe
+C:\nikhilomkar\ConsoleApp1\Queston 11 max of 3\bin\Debug\net8.0\Queston 11 max of 3.deps.json
+C:\nikhilomkar\ConsoleApp1\Queston 11 max of 3\bin\Debug\net8.0\Queston 11 max of 3.runtimeconfig.json
+C:\nikhilomkar\ConsoleApp1\Queston 11 max of 3\bin\Debug\net8.0\Queston 11 max of 3.dll
+C:\nikhilomkar\ConsoleApp1\Queston 11 max of 3\bin\Debug\net8.0\Queston 11 max of 3.pdb
+C:\nikhilomkar\ConsoleApp1\Queston 11 max of 3\obj\Debug\net8.0\Queston 11 max of 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\nikhilomkar\ConsoleApp1\Queston 11 max of 3\obj\Debug\net8.0\Queston 11 max of 3.AssemblyInfoInputs.cache
+C:\nikhilomkar\ConsoleApp1\Queston 11 max of 3\obj\Debug\net8.0\Queston 11 max of 3.AssemblyInfo.cs
+C:\nikhilomkar\ConsoleApp1\Queston 11 max of 3\obj\Debug\net8.0\Queston 11 max of 3.csproj.CoreCompileInputs.cache
+C:\nikhilomkar\ConsoleApp1\Queston 11 max of 3\obj\Debug\net8.0\Queston 11 max of 3.dll
+C:\nikhilomkar\ConsoleApp1\Queston 11 max of 3\obj\Debug\net8.0\refint\Queston 11 max of 3.dll
+C:\nikhilomkar\ConsoleApp1\Queston 11 max of 3\obj\Debug\net8.0\Queston 11 max of 3.pdb
+C:\nikhilomkar\ConsoleApp1\Queston 11 max of 3\obj\Debug\net8.0\Queston 11 max of 3.genruntimeconfig.cache
+C:\nikhilomkar\ConsoleApp1\Queston 11 max of 3\obj\Debug\net8.0\ref\Queston 11 max of 3.dll

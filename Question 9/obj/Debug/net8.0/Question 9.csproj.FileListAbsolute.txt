@@ -1,0 +1,14 @@
+C:\nikhilomkar\ConsoleApp1\Question 9\bin\Debug\net8.0\Question 9.exe
+C:\nikhilomkar\ConsoleApp1\Question 9\bin\Debug\net8.0\Question 9.deps.json
+C:\nikhilomkar\ConsoleApp1\Question 9\bin\Debug\net8.0\Question 9.runtimeconfig.json
+C:\nikhilomkar\ConsoleApp1\Question 9\bin\Debug\net8.0\Question 9.dll
+C:\nikhilomkar\ConsoleApp1\Question 9\bin\Debug\net8.0\Question 9.pdb
+C:\nikhilomkar\ConsoleApp1\Question 9\obj\Debug\net8.0\Question 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\nikhilomkar\ConsoleApp1\Question 9\obj\Debug\net8.0\Question 9.AssemblyInfoInputs.cache
+C:\nikhilomkar\ConsoleApp1\Question 9\obj\Debug\net8.0\Question 9.AssemblyInfo.cs
+C:\nikhilomkar\ConsoleApp1\Question 9\obj\Debug\net8.0\Question 9.csproj.CoreCompileInputs.cache
+C:\nikhilomkar\ConsoleApp1\Question 9\obj\Debug\net8.0\Question 9.dll
+C:\nikhilomkar\ConsoleApp1\Question 9\obj\Debug\net8.0\refint\Question 9.dll
+C:\nikhilomkar\ConsoleApp1\Question 9\obj\Debug\net8.0\Question 9.pdb
+C:\nikhilomkar\ConsoleApp1\Question 9\obj\Debug\net8.0\Question 9.genruntimeconfig.cache
+C:\nikhilomkar\ConsoleApp1\Question 9\obj\Debug\net8.0\ref\Question 9.dll

@@ -1,0 +1,14 @@
+C:\nikhilomkar\ConsoleApp1\Question 6 ascii\bin\Debug\net8.0\Question 6 ascii.exe
+C:\nikhilomkar\ConsoleApp1\Question 6 ascii\bin\Debug\net8.0\Question 6 ascii.deps.json
+C:\nikhilomkar\ConsoleApp1\Question 6 ascii\bin\Debug\net8.0\Question 6 ascii.runtimeconfig.json
+C:\nikhilomkar\ConsoleApp1\Question 6 ascii\bin\Debug\net8.0\Question 6 ascii.dll
+C:\nikhilomkar\ConsoleApp1\Question 6 ascii\bin\Debug\net8.0\Question 6 ascii.pdb
+C:\nikhilomkar\ConsoleApp1\Question 6 ascii\obj\Debug\net8.0\Question 6 ascii.GeneratedMSBuildEditorConfig.editorconfig
+C:\nikhilomkar\ConsoleApp1\Question 6 ascii\obj\Debug\net8.0\Question 6 ascii.AssemblyInfoInputs.cache
+C:\nikhilomkar\ConsoleApp1\Question 6 ascii\obj\Debug\net8.0\Question 6 ascii.AssemblyInfo.cs
+C:\nikhilomkar\ConsoleApp1\Question 6 ascii\obj\Debug\net8.0\Question 6 ascii.csproj.CoreCompileInputs.cache
+C:\nikhilomkar\ConsoleApp1\Question 6 ascii\obj\Debug\net8.0\Question 6 ascii.dll
+C:\nikhilomkar\ConsoleApp1\Question 6 ascii\obj\Debug\net8.0\refint\Question 6 ascii.dll
+C:\nikhilomkar\ConsoleApp1\Question 6 ascii\obj\Debug\net8.0\Question 6 ascii.pdb
+C:\nikhilomkar\ConsoleApp1\Question 6 ascii\obj\Debug\net8.0\Question 6 ascii.genruntimeconfig.cache
+C:\nikhilomkar\ConsoleApp1\Question 6 ascii\obj\Debug\net8.0\ref\Question 6 ascii.dll

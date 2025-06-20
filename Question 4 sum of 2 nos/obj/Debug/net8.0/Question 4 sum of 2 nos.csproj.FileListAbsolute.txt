@@ -1,0 +1,14 @@
+C:\nikhilomkar\ConsoleApp1\Question 4 sum of 2 nos\bin\Debug\net8.0\Question 4 sum of 2 nos.exe
+C:\nikhilomkar\ConsoleApp1\Question 4 sum of 2 nos\bin\Debug\net8.0\Question 4 sum of 2 nos.deps.json
+C:\nikhilomkar\ConsoleApp1\Question 4 sum of 2 nos\bin\Debug\net8.0\Question 4 sum of 2 nos.runtimeconfig.json
+C:\nikhilomkar\ConsoleApp1\Question 4 sum of 2 nos\bin\Debug\net8.0\Question 4 sum of 2 nos.dll
+C:\nikhilomkar\ConsoleApp1\Question 4 sum of 2 nos\bin\Debug\net8.0\Question 4 sum of 2 nos.pdb
+C:\nikhilomkar\ConsoleApp1\Question 4 sum of 2 nos\obj\Debug\net8.0\Question 4 sum of 2 nos.GeneratedMSBuildEditorConfig.editorconfig
+C:\nikhilomkar\ConsoleApp1\Question 4 sum of 2 nos\obj\Debug\net8.0\Question 4 sum of 2 nos.AssemblyInfoInputs.cache
+C:\nikhilomkar\ConsoleApp1\Question 4 sum of 2 nos\obj\Debug\net8.0\Question 4 sum of 2 nos.AssemblyInfo.cs
+C:\nikhilomkar\ConsoleApp1\Question 4 sum of 2 nos\obj\Debug\net8.0\Question 4 sum of 2 nos.csproj.CoreCompileInputs.cache
+C:\nikhilomkar\ConsoleApp1\Question 4 sum of 2 nos\obj\Debug\net8.0\Question 4 sum of 2 nos.dll
+C:\nikhilomkar\ConsoleApp1\Question 4 sum of 2 nos\obj\Debug\net8.0\refint\Question 4 sum of 2 nos.dll
+C:\nikhilomkar\ConsoleApp1\Question 4 sum of 2 nos\obj\Debug\net8.0\Question 4 sum of 2 nos.pdb
+C:\nikhilomkar\ConsoleApp1\Question 4 sum of 2 nos\obj\Debug\net8.0\Question 4 sum of 2 nos.genruntimeconfig.cache
+C:\nikhilomkar\ConsoleApp1\Question 4 sum of 2 nos\obj\Debug\net8.0\ref\Question 4 sum of 2 nos.dll

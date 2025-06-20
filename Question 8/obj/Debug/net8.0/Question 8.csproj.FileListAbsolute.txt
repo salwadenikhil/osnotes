@@ -1,0 +1,14 @@
+C:\nikhilomkar\ConsoleApp1\Question 8\bin\Debug\net8.0\Question 8.exe
+C:\nikhilomkar\ConsoleApp1\Question 8\bin\Debug\net8.0\Question 8.deps.json
+C:\nikhilomkar\ConsoleApp1\Question 8\bin\Debug\net8.0\Question 8.runtimeconfig.json
+C:\nikhilomkar\ConsoleApp1\Question 8\bin\Debug\net8.0\Question 8.dll
+C:\nikhilomkar\ConsoleApp1\Question 8\bin\Debug\net8.0\Question 8.pdb
+C:\nikhilomkar\ConsoleApp1\Question 8\obj\Debug\net8.0\Question 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\nikhilomkar\ConsoleApp1\Question 8\obj\Debug\net8.0\Question 8.AssemblyInfoInputs.cache
+C:\nikhilomkar\ConsoleApp1\Question 8\obj\Debug\net8.0\Question 8.AssemblyInfo.cs
+C:\nikhilomkar\ConsoleApp1\Question 8\obj\Debug\net8.0\Question 8.csproj.CoreCompileInputs.cache
+C:\nikhilomkar\ConsoleApp1\Question 8\obj\Debug\net8.0\Question 8.dll
+C:\nikhilomkar\ConsoleApp1\Question 8\obj\Debug\net8.0\refint\Question 8.dll
+C:\nikhilomkar\ConsoleApp1\Question 8\obj\Debug\net8.0\Question 8.pdb
+C:\nikhilomkar\ConsoleApp1\Question 8\obj\Debug\net8.0\Question 8.genruntimeconfig.cache
+C:\nikhilomkar\ConsoleApp1\Question 8\obj\Debug\net8.0\ref\Question 8.dll
